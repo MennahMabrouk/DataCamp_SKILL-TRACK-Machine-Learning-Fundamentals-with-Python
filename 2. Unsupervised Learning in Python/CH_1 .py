@@ -83,4 +83,6 @@ plt.scatter(centroids_x, centroids_y, marker = 'D' , s=50)
 plt.show()
 
 """
+
+
 """
